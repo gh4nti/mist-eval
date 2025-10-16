@@ -72,7 +72,7 @@ export default function App() {
 			<header className="flex justify-between items-center mb-8">
 				<MistLogo />
 				<div className="text-right text-sm text-gray-400">
-					<p>Name, Reg Number, Contact Number of person submitting</p>
+					<p>Adarsh Inaganti, 240905294, 8688198327</p>
 				</div>
 			</header>
 
